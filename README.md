@@ -9,7 +9,7 @@ A simple web-based expense tracker built using Python for both frontend and back
 
 ## 🛠️ Tech Stack
 - Python (Flask/Django/FastAPI?) – Backend
-- HTML/CSS + Python (e.g., Jinja) – Frontend
+- streamlit – Frontend
 - SQLite/MySQL – Database
 
 ## 🚀 Getting Started
